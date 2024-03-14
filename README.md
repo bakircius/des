@@ -80,7 +80,6 @@ def binaryToHex(binary): Binary veriyi HEX veriye çeviriyor.
 
 def binaryToMetin(hex): Gelen HEX veriyi metin haline çevirir.
 
-
 # İstemci Kodu :
 
 ```python
