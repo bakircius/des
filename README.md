@@ -83,6 +83,7 @@ def binaryToMetin(hex): Gelen HEX veriyi metin haline çevirir.
 
 # İstemci Kodu :
 
+```python
 mesaj = input("Şifrelenecek metni yazın : ")
 KEYS = produceKeys(input("Şifreleme anahtarını yazın : "))
 crypted = ""
@@ -99,3 +100,4 @@ print("Metin hex kodu     : " + binaryToHex(metinToBinary(mesaj)))
 print("Şifreli metin hex  : " + binaryToHex(crypted))
 print("deşifre metin hex  : " + binaryToHex(decrypted))
 print("deşifre metin      : " + binaryToMetin(decrypted))
+```
