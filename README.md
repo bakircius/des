@@ -1,4 +1,4 @@
-# Data Encryption Standart Python - Türkçe(Turkish)
+# Data Encryption Standart Python(Pure) - Türkçe(Turkish) - Kütüphanesiz(No Library)
 
 Sabitler
 Yardımcı Fonksiyonlar
